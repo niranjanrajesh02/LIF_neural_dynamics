@@ -1,9 +1,3 @@
-__author__ = "Devrim Celik"
-
-"""
-Interative plot, showcasing the Leaky Integrate-and-Fire Model
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import  Button, Slider
